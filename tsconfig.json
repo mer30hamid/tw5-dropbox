@@ -52,6 +52,6 @@
     "strict": false                            /* Enable all strict type-checking options. */
   },
   "files": [
-    "./twcloud.ts"
+    "./mer30hamid.ts"
   ]
 }

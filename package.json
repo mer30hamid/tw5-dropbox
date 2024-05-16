@@ -2,7 +2,7 @@
   "name": "tw5-dropbox",
   "version": "1.0.0",
   "description": "TiddlyWiki Five in the Sky for Dropbox",
-  "main": "twcloud",
+  "main": "mer30hamid",
   "directories": {
     "doc": "docs"
   },
@@ -15,12 +15,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/twcloud/tw5-dropbox.git"
+    "url": "git+https://github.com/mer30hamid/tw5-dropbox.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/twcloud/tw5-dropbox/issues"
+    "url": "https://github.com/mer30hamid/tw5-dropbox/issues"
   },
-  "homepage": "https://github.com/twcloud/tw5-dropbox#readme"
+  "homepage": "https://github.com/mer30hamid/tw5-dropbox#readme"
 }
