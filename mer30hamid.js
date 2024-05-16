@@ -18,7 +18,7 @@ var wrapper;
         function twits(type, hash) {
             var _this = this;
             this.apiKeyFull = "gy3j4gsa191p32x";
-            this.apiKeyApps = "tu8jc7jsdeg56ta";
+            this.apiKeyApps = "b9rjw997ex25z04";
             this.token = {};
             if (type !== "apps" && type !== "full")
                 throw "type must be either apps or full";
