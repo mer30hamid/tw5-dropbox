@@ -17,7 +17,7 @@ var wrapper;
     var twits = /** @class */ (function () {
         function twits(type, hash) {
             var _this = this;
-            this.apiKeyFull = "gy3j4gsa191p32x";
+            this.apiKeyFull = "grzy5gelg8r77y9";
             this.apiKeyApps = "b9rjw997ex25z04";
             this.token = {};
             if (type !== "apps" && type !== "full")
